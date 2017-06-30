@@ -1,0 +1,1 @@
+<template>    <div>        {{this.$route.query.id}}        <message-info></message-info>    </div></template><script></script><style></style>
